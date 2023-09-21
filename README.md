@@ -1,1 +1,1 @@
-# PipelineELT
+Este projeto ilustra um processo ETL com dados fictícios, demonstrando a estrutura fundamental que pode ser adaptada a cenários reais, envolvendo fontes de dados autênticas e transformações complexas.
